@@ -1,0 +1,50 @@
+baseURL = 'https://setsu1030.github.io/'
+languageCode = 'ja-JP'
+title = '名前はまだない'
+theme = 'mainroad'
+paginate = "10"
+hasCJKLanguage = true # 日本語・中国語・韓国語の単語カウントを有効にする
+summaryLength = '0'
+
+[Author]
+  name = "setsu1030"
+  bio = "雰囲気でプログラミングをやっています。"
+  avatar = "img/avatar.png"
+
+[Params]
+  description = "プログラミングに関するメモ帳です。"
+  copyright = "setsu1030"
+  opengraph = true
+  twitter_cards = false
+  schema = true
+  readmore = false
+  authorbox = true
+  toc = false
+  pager = true
+  post_meta = ["date", "categories", "tags"]
+  mainSections = ["posts"]
+  dateformat = "2006-01-02"
+  customCSS = ["css/custom.css"]
+
+[Params.logo]
+  subtitle = "プログラミングに関する備忘録等"
+
+[Params.thumbnail]
+  visibility = ["list", "posts"]
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  # Enable widgets in given order
+  widgets = ["search", "taglist", "recent", "categories"]
+
+[Params.widgets]
+  recent_num = 5
+  tags_counter = true
+
+[markup]
+  [markup.highlight]
+    linenos = true
+  [markup.goldmark.renderer]
+    unsafe = false # HTMLをエスケープしないようにする。

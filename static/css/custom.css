@@ -1,0 +1,13 @@
+.CodeBlock .CodeBlock_code pre {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 5px;
+}
+
+.CodeBlock .CodeBlock_code .highlight > div {
+    overflow-x: scroll;
+}
+
+img {
+    border: 1px solid #ccc;
+}
