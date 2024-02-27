@@ -24,4 +24,4 @@ graph LR
 
 ## 修正結果
 GitHubでも正しく表示できるようになった。  
-![画像](image.png)
+![画像](Image.png)
