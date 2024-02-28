@@ -25,6 +25,10 @@ summaryLength = '0'
   mainSections = ["posts"]
   dateformat = "2006-01-02"
   customCSS = ["css/custom.css"]
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&display=swap"
+
+[Params.style.vars]
+  fontFamilyPrimary = "'BIZ UDPGothic', sans-serif"
 
 [Params.logo]
   subtitle = "プログラミングに関する備忘録等"
