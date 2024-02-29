@@ -50,5 +50,4 @@ summaryLength = '0'
 [markup]
   [markup.highlight]
     linenos = true
-  [markup.goldmark.renderer]
-    unsafe = false # HTMLをエスケープしないようにする。
+    style = "github-dark"
