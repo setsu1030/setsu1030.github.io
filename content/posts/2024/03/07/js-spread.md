@@ -181,7 +181,7 @@ const Example = () => {
   };
   const changeAge = (e) => {
     {/* スプレッド演算子を使う場合は、変更するプロパティのみ宣言すればOKです */}
-    setObj({...obj , age: e.target.value});
+    setObj(obj => ({...obj , age: e.target.value}));
   };
   
   return (
