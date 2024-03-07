@@ -39,7 +39,7 @@ summaryLength = '0'
 [Params.sidebar]
   home = "right"
   list = "right"
-  single = "right"
+  single = false
   # Enable widgets in given order
   widgets = ["search", "taglist", "recent", "categories"]
 
