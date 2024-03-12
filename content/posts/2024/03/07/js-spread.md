@@ -3,7 +3,7 @@ title = 'JavaScriptのスプレッド演算子が便利'
 date = 2024-03-07T08:20:04+09:00
 draft = false
 tags = ['javascript','react']
-categories = ['備忘録']
+categories = ['記事']
 Params.toc = true
 +++
 ## 1. はじめに

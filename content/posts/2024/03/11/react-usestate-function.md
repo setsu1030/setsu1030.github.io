@@ -3,7 +3,7 @@ title = 'ReactのuseStateで値を更新する時に関数を使った方がい�
 date = 2024-03-11T15:11:45+09:00
 draft = false
 tags = ['react']
-categories = ['備忘録']
+categories = ['記事']
 Params.toc = true
 +++
 ## 1. はじめに
