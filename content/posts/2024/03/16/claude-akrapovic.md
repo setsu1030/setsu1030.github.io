@@ -4,7 +4,11 @@ date = 2024-03-16T16:01:18+09:00
 draft = false
 tags = ['claude']
 categories = ['ネタ']
+thumbnail.src = 'posts/2024/03/16/claude-akrapovic/logos--anthropic-icon.svg'
+
 +++
+![anthropic](logos--anthropic-icon.svg)
+
 Claude Opusに「アクラポビッチのマフラー」について聞いてみました。  
 ## 結果
 
